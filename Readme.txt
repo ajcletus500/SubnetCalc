@@ -1,2 +1,2 @@
-This python program is  asubnet calculator that provides the Network Address, Broadcast Address, Subnet Mask and Wildcard Mask for any given input of an IP address.
+This python program is a Subnet Calculator that provides the Network Address, Broadcast Address, Subnet Mask and Wildcard Mask for any given input of an IP address.
 The program can also generate a random IP Address within the range of the input IP subnet
